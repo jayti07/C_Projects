@@ -7,9 +7,6 @@ This repository showcases various programs I've developed to enhance my understa
 
 - **random_number.c**: Generates a random number between 1 and 100.
 - **guess_game.c**: A number guessing game where the user attempts to guess a randomly generated number.
-- **calculator.c**: A simple calculator that performs basic arithmetic operations using a switch-case structure.
-- **factorial.c**: Calculates the factorial of a user-provided number.
-- **fibonacci.c**: Displays the Fibonacci sequence up to a specified number of terms.
 
 ## ⚙️ How to Compile and Run
 
